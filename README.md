@@ -2,7 +2,7 @@
 
 Un semplice programmino che gestisce un libretto universitario e mantiene i dati persistenti in dei files.
 
-LINUX
+# Installazione su Linux
 Da terminale eseguire il comando make nella cartella "source".
 Sempre da terminale inviare il comando ./main.out per l'esecuzione del programma.
 
